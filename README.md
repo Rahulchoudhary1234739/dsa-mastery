@@ -1,1 +1,1 @@
-# dsa-mastery
+# DSA-Mastery
